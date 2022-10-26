@@ -16,7 +16,7 @@ In this project i have created a Product Homepage from scratch. And i have learn
 
 ### My Project is looking like :
 
-![Web Site Image](./images/screencapture-product-home-page-headphone-netlify-app-2022-07-31-19_44_46.png)
+![Web Site Image](./7.png)
 
 ### You can Check it Live on Below Link :
 
