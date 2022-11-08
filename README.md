@@ -20,4 +20,4 @@ In this project i have created a Product Homepage from scratch. And i have learn
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://somuwire.netlify.app/)
+[Live Link !](https://project-7-wireless-headphone-63dw.vercel.app/)
